@@ -1,0 +1,10 @@
+C:\Users\sachin.bhatia\Documents\Ranorex\RanorexStudio Projects\MySolution1\MySolution1\bin\Debug\MySolution1.rxtmg
+C:\Users\sachin.bhatia\Documents\Ranorex\RanorexStudio Projects\MySolution1\MySolution1\bin\Debug\MySolution1.rxtst
+C:\Users\sachin.bhatia\Documents\Ranorex\RanorexStudio Projects\MySolution1\MySolution1\bin\Debug\MySolution1.exe.config
+C:\Users\sachin.bhatia\Documents\Ranorex\RanorexStudio Projects\MySolution1\MySolution1\bin\Debug\MySolution1.xml
+C:\Users\sachin.bhatia\Documents\Ranorex\RanorexStudio Projects\MySolution1\MySolution1\bin\Debug\MySolution1.exe
+C:\Users\sachin.bhatia\Documents\Ranorex\RanorexStudio Projects\MySolution1\MySolution1\bin\Debug\MySolution1.pdb
+C:\Users\sachin.bhatia\Documents\Ranorex\RanorexStudio Projects\MySolution1\MySolution1\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\sachin.bhatia\Documents\Ranorex\RanorexStudio Projects\MySolution1\MySolution1\obj\x86\Debug\MySolution1.csprojResolveAssemblyReference.cache
+C:\Users\sachin.bhatia\Documents\Ranorex\RanorexStudio Projects\MySolution1\MySolution1\obj\x86\Debug\MySolution1.exe
+C:\Users\sachin.bhatia\Documents\Ranorex\RanorexStudio Projects\MySolution1\MySolution1\obj\x86\Debug\MySolution1.pdb

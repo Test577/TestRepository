@@ -1,0 +1,13 @@
+﻿<Properties>
+  <Array name="active">
+    <Element value="RecordingModule333.rxrec" />
+  </Array>
+  <Array name="bookmarks" />
+  <Array name="files">
+    <Element value="TestSuite1.rxtst" />
+    <Element value="RecordingModule333.rxrec" />
+  </Array>
+  <Properties name="projectSavedData">
+    <Array name="recentusercodeselections" />
+  </Properties>
+</Properties>
