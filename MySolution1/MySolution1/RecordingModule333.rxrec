@@ -93,6 +93,28 @@ mode="Global">
 			<bindings>
 			</bindings>
 		</closeapprecorditem>
+		<mousewheelitem
+		delta="120"
+		duration="300ms"
+		enabled="True"
+		optional="False"
+		orientation="Vertical">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</mousewheelitem>
+		<getvaluerecorditem
+		attrname=""
+		enabled="True"
+		optional="False"
+		searchpropertyid="77e329c5-69f1-4bcf-b7d8-78dee90b59e7"
+		varname="">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</getvaluerecorditem>
 		<openwebsiterecorditem
 		args=""
 		browser="IE"
@@ -112,6 +134,22 @@ mode="Global">
 				http://www.ranorex.com
 			</url>
 		</openwebsiterecorditem>
+		<keyitem
+		action="Press"
+		data="X"
+		duration="20ms"
+		enabled="True"
+		numLock="False"
+		optional="False"
+		presstime="20ms"
+		scancode="0"
+		searchpropertyid="2cf96d0c-5d81-43a0-a014-fdfd700597bc"
+		setModifiers="True">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</keyitem>
 		<setvaluerecorditem
 		attrname=""
 		enabled="True"
@@ -10639,6 +10677,44 @@ mode="Global">
 			TreeSimplification="True">
 			</InstrumentApkOptions>
 		</deployapkrecorditem>
+		<WaitForRecordItem
+		enabled="True"
+		optional="False"
+		searchpropertyid="703a275f-4f14-4fd3-9f0d-48f394e7a9de"
+		waitaction="NotExists"
+		waittimeout="5000ms">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</WaitForRecordItem>
+		<keyitem
+		action="Press"
+		data="X"
+		duration="20ms"
+		enabled="True"
+		numLock="False"
+		optional="False"
+		presstime="20ms"
+		scancode="0"
+		searchpropertyid="f348c705-4922-467b-bd31-262f8a3baff9"
+		setModifiers="True">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</keyitem>
+		<mousewheelitem
+		delta="120"
+		duration="300ms"
+		enabled="True"
+		optional="False"
+		orientation="Vertical">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</mousewheelitem>
 		<mouseitem
 		action="Click"
 		button="Left"
@@ -11635,6 +11711,36 @@ mode="Global">
 			<AttributeValue>
 			</AttributeValue>
 		</setvaluerecorditem>
+		<invokeactionrecorditem
+		action=""
+		enabled="True"
+		optional="False"
+		searchpropertyid="1ed2fb69-d6ac-4b47-b8b7-739d5ffb8fa5">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<arguments
+			id="8400b617-168a-441e-a2bf-f46b59347aee">
+			</arguments>
+		</invokeactionrecorditem>
+		<mouseitem
+		action="Click"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="Center"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="6999c8e0-1a73-4e0d-9e69-aef5b1b9e566"
+		sx="0"
+		sy="0"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</mouseitem>
 		<deployapkrecorditem
 		apkpath=""
 		devicename=""
@@ -11929,6 +12035,23 @@ mode="Global">
 			TreeSimplification="True">
 			</InstrumentApkOptions>
 		</deployapkrecorditem>
+		<swiperecorditem
+		direction="270"
+		distance=".5"
+		duration="500ms"
+		enabled="True"
+		optional="False"
+		screenshotname=""
+		searchpropertyid="295bbcbb-c443-4c9f-b4b7-4f731c463615"
+		startlocation="Center"
+		steps="0"
+		swipeduration="500ms"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</swiperecorditem>
 	</recorditems>
 	<repository
 	id="acf170a3-8e38-4fb9-8515-1e765536e995"
